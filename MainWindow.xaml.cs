@@ -37,6 +37,8 @@ namespace AddNewRaschetBenzina
                 new Toplivo() {V =  Vtopliva, P =  Ptopliva},
             };
             DG.Items.Add(top1);
+
+
         }
     }
 }
